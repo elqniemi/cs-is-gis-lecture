@@ -11,4 +11,6 @@ meta_network_example.sql
 datasets/
 - Actual road networks for groningen
 
+# H3
 
+[H3 installation](https://h3geo.org/docs/installation/)
